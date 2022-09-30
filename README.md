@@ -1,7 +1,7 @@
-  <body>
-    <p align="center"><img src="https://c.tenor.com/xkr98p2BLLUAAAAC/arknights-amiya.gif" alt="Amiya"</p>
-    <h1 align="center">Hi there!</h1>
-  </body>
+<body>
+   <p align="center"><a href="https://c.tenor.com/xkr98p2BLLUAAAAC/arknights-amiya.gif"><img src="https://c.tenor.com/xkr98p2BLLUAAAAC/arknights-amiya.gif" alt="Amiya"</p></a>
+  <h2 align="center">Hi there!</h2>
+</body>
 
 <details open align="center">
     <summary><b>I'm on</b></summary><br/>
