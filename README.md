@@ -1,5 +1,5 @@
 <body>
-   <p align="center"><a href="https://c.tenor.com/xkr98p2BLLUAAAAC/arknights-amiya.gif"><img src="https://c.tenor.com/xkr98p2BLLUAAAAC/arknights-amiya.gif" alt="Amiya"</p></a>
+   <p align="center"><a href="https://tenor.com/view/arknights-amiya-arknightsamiya-gif-22114389"><img src="https://c.tenor.com/xkr98p2BLLUAAAAC/arknights-amiya.gif" alt="Amiya"</p></a>
   <h2 align="center">Hi there!</h2>
 </body>
 
